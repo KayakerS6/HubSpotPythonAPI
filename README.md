@@ -1,2 +1,2 @@
 # HubSpotPythonAPI
-Python script to call HubSpot API
+Python script to manage various tasks using the HubSpot API
